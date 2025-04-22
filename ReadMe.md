@@ -79,3 +79,18 @@ cd frontend
 # Start development server
 npm run dev
 ```
+
+
+### 🔐 ENV Setup
+
+Add in root directory of backend
+
+```bash
+cd backend
+```
+##.env
+```bash 
+PORT=5000
+JWT_SECRET=supersecretkey123
+
+```
