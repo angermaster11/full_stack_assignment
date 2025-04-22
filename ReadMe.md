@@ -6,6 +6,8 @@ This is a simple full-stack authentication app using:
 - **Backend:** Node.js + Express + TypeScript + Prisma + JWT
 - **Database:** SQLite (via Prisma ORM)
 
+- **GDrive-Video:** ``` https://drive.google.com/file/d/1x-fLIKS6MSiMC1_T8a1thtPjTnIhdYEw/view?pli=1 ```
+
 ---
 
 ## 🚀 Features
